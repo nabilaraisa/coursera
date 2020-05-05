@@ -15,8 +15,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-<p1> NABILA kHOBIS </p1>
-
 - Bulleted
 - List
 
